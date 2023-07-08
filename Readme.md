@@ -1,9 +1,9 @@
 # GPT-Call
-Markup :  - - - -
+- - - -
 ## An Calling Application With ChatGTP
-Markup :  - - - -
+- - - -
 ## Android Studio
-Markup :  - - - -
+- - - -
 * ### To run it on your local machine follow this steps :
 
   * #### 1. Clone this repository on your machine
@@ -18,7 +18,7 @@ Markup :  - - - -
   * #### 5. Connect Mobile (connect using USB debugging or Wireless Debugging) or ADB device
 
   * #### 6. Click on run button and you are done!
-Markup :  - - - -
+- - - -
 * ### Workflow to be Implemented
   * #### App Starts
   * #### Main Screen appears with available options for Calling AI agents like ChatGPT, Google Bard and Others.
@@ -33,7 +33,7 @@ Markup :  - - - -
       * Play That Sound using selected Celebrity voice (sound should be played by default in microphone speaker which is used while call)
   * #### Some functionalities like speaker, hold, recording can be added
   * #### On Click on End Call Button, User will return to Home Screen
-Markup :  - - - -
+- - - -
 * ### Features
   * #### On Call Conversation with chatGPT
   * #### Animated Call Screen while talking with AI
