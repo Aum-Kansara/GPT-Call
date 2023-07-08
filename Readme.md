@@ -9,15 +9,15 @@
 * ####  Clone this repository on your machine
     git clone https://github.com/Aum-Kansara/GPT-Call.git
   
-#### 2. Start Android Studio
+* #### 2. Start Android Studio
 
-#### 3. Go to File -> Open and Select Downloaded Project
+* #### 3. Go to File -> Open and Select Downloaded Project
 
-#### 4. Wait till Android Studio setups up dependencies and project
+* #### 4. Wait till Android Studio setups up dependencies and project
 
-#### 5. Connect Mobile (connect using USB debugging or Wireless Debugging) or ADB device
+* #### 5. Connect Mobile (connect using USB debugging or Wireless Debugging) or ADB device
 
-#### 6. Click on run button and you are done!
+* #### 6. Click on run button and you are done!
 
 ### Features
 #### On Call Conversation with chatGPT
