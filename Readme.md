@@ -6,7 +6,7 @@
 
 ### To run it on your local machine follow this steps :
 
-#### * Clone this repository on your machine
+* ####  Clone this repository on your machine
     git clone https://github.com/Aum-Kansara/GPT-Call.git
   
 #### 2. Start Android Studio
