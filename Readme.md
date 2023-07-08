@@ -2,7 +2,22 @@
 
 ## An Calling Application With ChatGTP
 
-### Using Android Studio
+## Android Studio
+
+### To run it on your local machine follow this steps :
+
+#### Clone this repository on your machine
+    git clone https://github.com/Aum-Kansara/GPT-Call.git
+  
+#### Start Android Studio
+
+#### Go to File -> Open and Select Downloaded Project
+
+#### Wait till Android Studio setups up dependencies and project
+
+#### Connect Mobile (connect using USB debugging or Wireless Debugging) or ADB device
+
+#### Click on run button and you are done!
 
 ### Features
 #### On Call Conversation with chatGPT
