@@ -49,3 +49,8 @@
 
   * #### For fun and user's interest we can set response of AI agent in form of voice of Celebrity (Selected by user)
 - - - -
+
+## Resources for Generative Audio Model using Deep Learning :
+
+### https://www.youtube.com/watch?v=mN6cTcA5mDI
+### https://www.youtube.com/watch?v=FtUKj7oHpKQ
