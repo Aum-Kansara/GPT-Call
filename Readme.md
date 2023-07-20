@@ -52,7 +52,15 @@
 
 ## Resources for Generative Audio Model using Deep Learning :
 
-### https://www.youtube.com/watch?v=mN6cTcA5mDI
-### https://www.youtube.com/watch?v=FtUKj7oHpKQ
-### https://www.youtube.com/watch?v=e71H--vxRvo
-### https://www.youtube.com/watch?v=P1EqPe89fPI
+* ### Youtube
+  ### https://www.youtube.com/watch?v=mN6cTcA5mDI
+  ### https://www.youtube.com/watch?v=FtUKj7oHpKQ
+  ### https://www.youtube.com/watch?v=e71H--vxRvo
+  ### https://www.youtube.com/watch?v=P1EqPe89fPI
+
+* ### Websites
+  ### https://medium.com/the-research-nest/voice-cloning-using-deep-learning-166f1b8d8595
+  ### https://towardsdatascience.com/you-can-now-speak-using-someone-elses-voice-with-deep-learning-8be24368fa2b
+  ### https://medium.com/@saxenauts/speech-synthesis-techniques-using-deep-neural-networks-38699e943861
+  ### https://www.youtube.com/watch?v=MA8PCvmr8B0
+  ### https://www.youtube.com/watch?v=-p_awLZWLeI
