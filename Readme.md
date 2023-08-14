@@ -70,7 +70,7 @@
 ## Contributing :-
 * ### We love contributions from the community! We welcome all of your suggetions and pull requests and appreciate it.
 * ### There are two part to be impelmented first :
-* * ### 1. Voice cloning Deep Learning Model
-* * ### 2. User Interface of Mobile App
+  * ### 1. Voice cloning Deep Learning Model
+  * ### 2. User Interface of Mobile App
 ### You can follow above given steps to run it on your local machines.
 ### You can also open new issue with your suggested ideas.
