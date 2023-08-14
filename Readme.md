@@ -62,4 +62,4 @@
 ### You can also open new issue with your suggested ideas or make PR to update documentation.
 
 ## Community :-
-## Join [Discord](https://discord.gg/h8edhD59)👾 to join Community and further Discussion.
+* ### Join [Discord](https://discord.gg/h8edhD59)👾 to join Community and further Discussion.
