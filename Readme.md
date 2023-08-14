@@ -67,5 +67,10 @@
   ### https://towardsdatascience.com/you-can-now-speak-using-someone-elses-voice-with-deep-learning-8be24368fa2b
   ### https://medium.com/@saxenauts/speech-synthesis-techniques-using-deep-neural-networks-38699e943861
 - - - -
-Contributing :-
-
+## Contributing :-
+* ### We love contributions from the community! We welcome all of your suggetions and pull requests and appreciate it.
+* ### There are two part to be impelmented first :
+* * ### 1. Voice cloning Deep Learning Model
+* * ### 2. User Interface of Mobile App
+### You can follow above given steps to run it on your local machines.
+### You can also open new issue with your suggested ideas.
