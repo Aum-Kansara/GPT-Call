@@ -51,7 +51,7 @@
 - - - -
 
 ## Resources for Generative Audio Model using Deep Learning :
-### You can follow [resources.txt](resources.txt)
+### You can follow Resources from [resources.txt](Here)
 - - - -
 ## Contributing :-
 * ### We love contributions from the community! We welcome all of your suggetions and pull requests and appreciate it.
@@ -59,4 +59,4 @@
   * ### 1. Voice cloning Deep Learning Model
   * ### 2. User Interface of Mobile App
 ### You can follow above given steps to run it on your local machines.
-### You can also open new issue with your suggested ideas.
+### You can also open new issue with your suggested ideas or make pr to update documentation.
