@@ -51,7 +51,7 @@
 - - - -
 
 ## Resources for Generative Audio Model using Deep Learning :
-### You can follow Resources from [resources.txt](Here)
+### You can follow Resources from [Here](resources.txt)
 - - - -
 ## Contributing :-
 * ### We love contributions from the community! We welcome all of your suggetions and pull requests and appreciate it.
