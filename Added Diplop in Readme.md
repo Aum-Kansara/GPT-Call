@@ -52,6 +52,7 @@
 
 ## Resources for Generative Audio Model using Deep Learning :
 ### You can follow Resources from [Here](resources.txt)
+### Diplop (Transcription Tool) : https://www.diplop.com/
 - - - -
 ## Contributing :-
 * ### We love contributions from the community! We welcome all of your suggetions and pull requests and appreciate it.
